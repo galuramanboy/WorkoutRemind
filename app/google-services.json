@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031785644891",
+    "project_id": "workoutremind-afe1c",
+    "storage_bucket": "workoutremind-afe1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031785644891:android:dbb3b4ebb81fe026e2907e",
+        "android_client_info": {
+          "package_name": "com.example.workoutremind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031785644891-fiki7824g3u3oqlm1umdrb5ddref8huh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcgOGcuay5DwC9XX9s0obOGeuPXROPRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031785644891-fiki7824g3u3oqlm1umdrb5ddref8huh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
